@@ -30,13 +30,13 @@ Make sure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Rahamatullamandal2005/Stopwatch-Project.git
+   git clone https://github.com/Rahamatullamandal2005/stopwatch_webApp.git
    ```
 
 2. Navigate into the project folder:
 
    ```bash
-   cd Stopwatch-Project
+   cd stopwatch_webApp
    ```
 
 3. Open `index.html` in your preferred web browser:
@@ -66,7 +66,7 @@ Contributions are welcome! If you'd like to improve this project, feel free to f
 2. Clone your fork to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Stopwatch-Project.git
+   git clone https://github.com/your-username/stopwatch_webApp.git
    ```
 
 3. Create a new branch for your feature or bug fix:
